@@ -6,7 +6,7 @@ Utility for detecting phishing domains targeting Web3 users.
 
 For checking why a given domain was blocked, there is a third-party [search tool](https://app.chainpatrol.io/search) maintained by ChainPatrol.
 
-## Blocking Policy
+## Blocking Policy,mmm
 
 We are constantly evolving the ideal policy that guides this list, but a few clearly defined rules have emerged. We will be quick and decisive to block websites that:
 - Impersonate other known and established sites.
